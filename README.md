@@ -1,2 +1,2 @@
 # GeoGebra
-Geo的三个练习
+Geo的一些个练习
